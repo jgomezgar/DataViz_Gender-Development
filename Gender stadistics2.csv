@@ -1,0 +1,615 @@
+﻿Country Code,Country,Region,Income Group,Freedom_Index,Economy_Index,Freedom_Cost,Gender,Indicator Name,value
+AFG,Afghanistan,South Asia,Low income,15.3,6.88,2.23,Female,Contributing family workers,70.21
+AFG,Afghanistan,South Asia,Low income,15.3,6.88,2.23,Male,Contributing family workers,12.78
+AGO,Angola,Sub-Saharan Africa,Lower middle income,36.35,8.41,4.32,Female,Contributing family workers,13.89
+AGO,Angola,Sub-Saharan Africa,Lower middle income,36.35,8.41,4.32,Male,Contributing family workers,9.95
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Female,Adolescents out of school,2.59
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Female,Contributing family workers,32
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Female,Employment to population ratio,43.4
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Female,Share of youth not in education,27.95
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Male,Adolescents out of school,5.63
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Male,Contributing family workers,18.16
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Male,Employment to population ratio,56.67
+ALB,Albania,Europe & Central Asia,Upper middle income,60.9,26.47,2.3,Male,Share of youth not in education,26.5
+ARE,United Arab Emirates,Middle East & North Africa,High income,64.28,67.94,0.95,Female,Contributing family workers,1.11
+ARE,United Arab Emirates,Middle East & North Africa,High income,64.28,67.94,0.95,Male,Contributing family workers,0.11
+ARG,Argentina,Latin America & Caribbean,Upper middle income,61.85,34.51,1.79,Female,Contributing family workers,0.9
+ARG,Argentina,Latin America & Caribbean,Upper middle income,61.85,34.51,1.79,Male,Contributing family workers,0.34
+ARM,Armenia,Europe & Central Asia,Upper middle income,48.86,24.63,1.98,Female,Contributing family workers,5.37
+ARM,Armenia,Europe & Central Asia,Upper middle income,48.86,24.63,1.98,Female,Employment to population ratio,41.65
+ARM,Armenia,Europe & Central Asia,Upper middle income,48.86,24.63,1.98,Female,Share of youth not in education,34.52
+ARM,Armenia,Europe & Central Asia,Upper middle income,48.86,24.63,1.98,Male,Contributing family workers,2.19
+ARM,Armenia,Europe & Central Asia,Upper middle income,48.86,24.63,1.98,Male,Employment to population ratio,58.73
+ARM,Armenia,Europe & Central Asia,Upper middle income,48.86,24.63,1.98,Male,Share of youth not in education,32.77
+AUS,Australia,East Asia & Pacific,High income,89.15,64.36,1.39,Female,Contributing family workers,0.24
+AUS,Australia,East Asia & Pacific,High income,89.15,64.36,1.39,Female,Employment to population ratio,56.61
+AUS,Australia,East Asia & Pacific,High income,89.15,64.36,1.39,Male,Contributing family workers,0.17
+AUS,Australia,East Asia & Pacific,High income,89.15,64.36,1.39,Male,Employment to population ratio,66.96
+AUT,Austria,Europe & Central Asia,High income,88.43,63.35,1.4,Female,Contributing family workers,1.49
+AUT,Austria,Europe & Central Asia,High income,88.43,63.35,1.4,Female,Employment to population ratio,53.04
+AUT,Austria,Europe & Central Asia,High income,88.43,63.35,1.4,Female,Share of youth not in education,7.02
+AUT,Austria,Europe & Central Asia,High income,88.43,63.35,1.4,Male,Contributing family workers,1.28
+AUT,Austria,Europe & Central Asia,High income,88.43,63.35,1.4,Male,Employment to population ratio,63.08
+AUT,Austria,Europe & Central Asia,High income,88.43,63.35,1.4,Male,Share of youth not in education,7.26
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,36.25,26.94,1.35,Female,Adolescents out of school,3.96
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,36.25,26.94,1.35,Female,Contributing family workers,42.19
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,36.25,26.94,1.35,Male,Adolescents out of school,2.87
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,36.25,26.94,1.35,Male,Contributing family workers,25.29
+BDI,Burundi,Sub-Saharan Africa,Low income,17.7,5.02,3.52,Female,Contributing family workers,33.99
+BDI,Burundi,Sub-Saharan Africa,Low income,17.7,5.02,3.52,Male,Contributing family workers,20.85
+BEL,Belgium,Europe & Central Asia,High income,82.45,63.08,1.31,Female,Contributing family workers,1.21
+BEL,Belgium,Europe & Central Asia,High income,82.45,63.08,1.31,Female,Employment to population ratio,45.57
+BEL,Belgium,Europe & Central Asia,High income,82.45,63.08,1.31,Female,Share of youth not in education,9.5
+BEL,Belgium,Europe & Central Asia,High income,82.45,63.08,1.31,Male,Contributing family workers,0.47
+BEL,Belgium,Europe & Central Asia,High income,82.45,63.08,1.31,Male,Employment to population ratio,54.71
+BEL,Belgium,Europe & Central Asia,High income,82.45,63.08,1.31,Male,Share of youth not in education,10.4
+BEN,Benin,Sub-Saharan Africa,Lower middle income,53.69,7.71,6.96,Female,Contributing family workers,18.2
+BEN,Benin,Sub-Saharan Africa,Lower middle income,53.69,7.71,6.96,Male,Contributing family workers,10.23
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,43.72,4.84,9.03,Female,Adolescents out of school,44.24
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,43.72,4.84,9.03,Female,Contributing family workers,51.74
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,43.72,4.84,9.03,Male,Adolescents out of school,46.5
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,43.72,4.84,9.03,Male,Contributing family workers,29.24
+BGD,Bangladesh,South Asia,Lower middle income,36.29,12.44,2.92,Female,Contributing family workers,33.44
+BGD,Bangladesh,South Asia,Lower middle income,36.29,12.44,2.92,Male,Contributing family workers,4.42
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,64.48,36.34,1.77,Female,Contributing family workers,0.94
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,64.48,36.34,1.77,Female,Employment to population ratio,46.13
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,64.48,36.34,1.77,Female,Share of youth not in education,17.63
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,64.48,36.34,1.77,Male,Contributing family workers,0.46
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,64.48,36.34,1.77,Male,Employment to population ratio,57.1
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,64.48,36.34,1.77,Male,Share of youth not in education,15.06
+BHR,Bahrain,Middle East & North Africa,High income,40.48,64.34,0.63,Female,Adolescents out of school,1.25
+BHR,Bahrain,Middle East & North Africa,High income,40.48,64.34,0.63,Female,Contributing family workers,0.51
+BHR,Bahrain,Middle East & North Africa,High income,40.48,64.34,0.63,Male,Adolescents out of school,5.65
+BHR,Bahrain,Middle East & North Africa,High income,40.48,64.34,0.63,Male,Contributing family workers,0.43
+BHS,The Bahamas,Latin America & Caribbean,High income,76.43,18.06,4.23,Female,Contributing family workers,0.26
+BHS,The Bahamas,Latin America & Caribbean,High income,76.43,18.06,4.23,Male,Contributing family workers,0.28
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,47.64,28.92,1.65,Female,Contributing family workers,6.99
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,47.64,28.92,1.65,Female,Employment to population ratio,24.4
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,47.64,28.92,1.65,Female,Share of youth not in education,23.85
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,47.64,28.92,1.65,Male,Contributing family workers,1.74
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,47.64,28.92,1.65,Male,Employment to population ratio,42.75
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,47.64,28.92,1.65,Male,Share of youth not in education,25.25
+BLR,Belarus,Europe & Central Asia,Upper middle income,43.11,39.84,1.08,Female,Contributing family workers,0.04
+BLR,Belarus,Europe & Central Asia,Upper middle income,43.11,39.84,1.08,Female,Employment to population ratio,68.32
+BLR,Belarus,Europe & Central Asia,Upper middle income,43.11,39.84,1.08,Male,Contributing family workers,0.02
+BLR,Belarus,Europe & Central Asia,Upper middle income,43.11,39.84,1.08,Male,Employment to population ratio,72.24
+BLZ,Belize,Latin America & Caribbean,Upper middle income,56.23,3.23,17.43,Female,Adolescents out of school,11.44
+BLZ,Belize,Latin America & Caribbean,Upper middle income,56.23,3.23,17.43,Female,Contributing family workers,4.22
+BLZ,Belize,Latin America & Caribbean,Upper middle income,56.23,3.23,17.43,Male,Adolescents out of school,10.53
+BLZ,Belize,Latin America & Caribbean,Upper middle income,56.23,3.23,17.43,Male,Contributing family workers,2.98
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,49.28,4.64,10.63,Female,Contributing family workers,28.22
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,49.28,4.64,10.63,Female,Employment to population ratio,56.87
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,49.28,4.64,10.63,Female,Share of youth not in education,18.09
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,49.28,4.64,10.63,Male,Contributing family workers,8.21
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,49.28,4.64,10.63,Male,Employment to population ratio,77
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,49.28,4.64,10.63,Male,Share of youth not in education,4.98
+BRA,Brazil,Latin America & Caribbean,Upper middle income,54.89,25.54,2.15,Female,Contributing family workers,3.62
+BRA,Brazil,Latin America & Caribbean,Upper middle income,54.89,25.54,2.15,Female,Employment to population ratio,45.64
+BRA,Brazil,Latin America & Caribbean,Upper middle income,54.89,25.54,2.15,Female,Share of youth not in education,28.52
+BRA,Brazil,Latin America & Caribbean,Upper middle income,54.89,25.54,2.15,Male,Contributing family workers,1.5
+BRA,Brazil,Latin America & Caribbean,Upper middle income,54.89,25.54,2.15,Male,Employment to population ratio,65.7
+BRA,Brazil,Latin America & Caribbean,Upper middle income,54.89,25.54,2.15,Male,Share of youth not in education,18.35
+BTN,Bhutan,South Asia,Lower middle income,68.91,16.01,4.3,Female,Contributing family workers,46.97
+BTN,Bhutan,South Asia,Lower middle income,68.91,16.01,4.3,Male,Contributing family workers,23.16
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,72.13,16.8,4.29,Female,Contributing family workers,2.89
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,72.13,16.8,4.29,Male,Contributing family workers,2.8
+CAN,Canada,North America,High income,92.91,69.41,1.34,Female,Contributing family workers,0.15
+CAN,Canada,North America,High income,92.91,69.41,1.34,Female,Employment to population ratio,57.78
+CAN,Canada,North America,High income,92.91,69.41,1.34,Female,Share of youth not in education,12.45
+CAN,Canada,North America,High income,92.91,69.41,1.34,Male,Contributing family workers,0.1
+CAN,Canada,North America,High income,92.91,69.41,1.34,Male,Employment to population ratio,65.37
+CAN,Canada,North America,High income,92.91,69.41,1.34,Male,Share of youth not in education,13.55
+CHE,Switzerland,Europe & Central Asia,High income,97.1,68.46,1.42,Female,Contributing family workers,2.48
+CHE,Switzerland,Europe & Central Asia,High income,97.1,68.46,1.42,Female,Employment to population ratio,59.61
+CHE,Switzerland,Europe & Central Asia,High income,97.1,68.46,1.42,Female,Share of youth not in education,5.56
+CHE,Switzerland,Europe & Central Asia,High income,97.1,68.46,1.42,Male,Contributing family workers,1.48
+CHE,Switzerland,Europe & Central Asia,High income,97.1,68.46,1.42,Male,Employment to population ratio,70.86
+CHE,Switzerland,Europe & Central Asia,High income,97.1,68.46,1.42,Male,Share of youth not in education,7.65
+CHL,Chile,Latin America & Caribbean,High income,76.81,37.91,2.03,Female,Contributing family workers,1.75
+CHL,Chile,Latin America & Caribbean,High income,76.81,37.91,2.03,Female,Employment to population ratio,45.08
+CHL,Chile,Latin America & Caribbean,High income,76.81,37.91,2.03,Female,Share of youth not in education,20.5
+CHL,Chile,Latin America & Caribbean,High income,76.81,37.91,2.03,Male,Contributing family workers,0.7
+CHL,Chile,Latin America & Caribbean,High income,76.81,37.91,2.03,Male,Employment to population ratio,66.46
+CHL,Chile,Latin America & Caribbean,High income,76.81,37.91,2.03,Male,Share of youth not in education,14.04
+CHN,China,East Asia & Pacific,Upper middle income,43.94,32.44,1.35,Female,Contributing family workers,17.57
+CHN,China,East Asia & Pacific,Upper middle income,43.94,32.44,1.35,Male,Contributing family workers,6.3
+CIV,CÃ´te d'Ivoire,Sub-Saharan Africa,Lower middle income,41.49,6.18,6.71,Female,Contributing family workers,17.61
+CIV,CÃ´te d'Ivoire,Sub-Saharan Africa,Lower middle income,41.49,6.18,6.71,Male,Contributing family workers,9.3
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,31.21,7.73,4.04,Female,Contributing family workers,17.77
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,31.21,7.73,4.04,Male,Contributing family workers,7.57
+COG,Congo,Sub-Saharan Africa,Lower middle income,32.48,10.44,3.11,Female,Contributing family workers,3.73
+COG,Congo,Sub-Saharan Africa,Lower middle income,32.48,10.44,3.11,Male,Contributing family workers,4.05
+COL,Colombia,Latin America & Caribbean,Upper middle income,50.62,26.37,1.92,Female,Contributing family workers,5.82
+COL,Colombia,Latin America & Caribbean,Upper middle income,50.62,26.37,1.92,Female,Employment to population ratio,50.7
+COL,Colombia,Latin America & Caribbean,Upper middle income,50.62,26.37,1.92,Female,Share of youth not in education,30.57
+COL,Colombia,Latin America & Caribbean,Upper middle income,50.62,26.37,1.92,Male,Contributing family workers,2.09
+COL,Colombia,Latin America & Caribbean,Upper middle income,50.62,26.37,1.92,Male,Employment to population ratio,75.05
+COL,Colombia,Latin America & Caribbean,Upper middle income,50.62,26.37,1.92,Male,Share of youth not in education,13.55
+CPV,Cabo Verde,Sub-Saharan Africa,Lower middle income,73.51,2.89,25.41,Female,Contributing family workers,6.28
+CPV,Cabo Verde,Sub-Saharan Africa,Lower middle income,73.51,2.89,25.41,Male,Contributing family workers,4.03
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Female,Adolescents out of school,4.93
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Female,Contributing family workers,3.32
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Female,Employment to population ratio,40.81
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Female,Share of youth not in education,24.37
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Male,Adolescents out of school,5.3
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Male,Contributing family workers,1.35
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Male,Employment to population ratio,67.57
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,73.9,30.58,2.42,Male,Share of youth not in education,14.89
+CYP,Cyprus,Europe & Central Asia,High income,77.98,49.3,1.58,Female,Contributing family workers,1.07
+CYP,Cyprus,Europe & Central Asia,High income,77.98,49.3,1.58,Female,Employment to population ratio,50.75
+CYP,Cyprus,Europe & Central Asia,High income,77.98,49.3,1.58,Female,Share of youth not in education,14.51
+CYP,Cyprus,Europe & Central Asia,High income,77.98,49.3,1.58,Male,Contributing family workers,0.89
+CYP,Cyprus,Europe & Central Asia,High income,77.98,49.3,1.58,Male,Employment to population ratio,60.4
+CYP,Cyprus,Europe & Central Asia,High income,77.98,49.3,1.58,Male,Share of youth not in education,15.23
+CZE,Czech Republic,Europe & Central Asia,High income,81.01,54.4,1.49,Female,Contributing family workers,0.91
+CZE,Czech Republic,Europe & Central Asia,High income,81.01,54.4,1.49,Female,Employment to population ratio,50.13
+CZE,Czech Republic,Europe & Central Asia,High income,81.01,54.4,1.49,Female,Share of youth not in education,8.46
+CZE,Czech Republic,Europe & Central Asia,High income,81.01,54.4,1.49,Male,Contributing family workers,0.2
+CZE,Czech Republic,Europe & Central Asia,High income,81.01,54.4,1.49,Male,Employment to population ratio,66.6
+CZE,Czech Republic,Europe & Central Asia,High income,81.01,54.4,1.49,Male,Share of youth not in education,4.46
+DEU,Germany,Europe & Central Asia,High income,87.46,62.42,1.4,Female,Contributing family workers,0.51
+DEU,Germany,Europe & Central Asia,High income,87.46,62.42,1.4,Female,Employment to population ratio,53.87
+DEU,Germany,Europe & Central Asia,High income,87.46,62.42,1.4,Female,Share of youth not in education,6.74
+DEU,Germany,Europe & Central Asia,High income,87.46,62.42,1.4,Male,Contributing family workers,0.22
+DEU,Germany,Europe & Central Asia,High income,87.46,62.42,1.4,Male,Employment to population ratio,63.89
+DEU,Germany,Europe & Central Asia,High income,87.46,62.42,1.4,Male,Share of youth not in education,5.58
+DJI,Djibouti,Middle East & North Africa,Lower middle income,33.47,1.99,16.81,Female,Contributing family workers,3.41
+DJI,Djibouti,Middle East & North Africa,Lower middle income,33.47,1.99,16.81,Male,Contributing family workers,1.99
+DNK,Denmark,Europe & Central Asia,High income,92.79,61.8,1.5,Female,Contributing family workers,0.46
+DNK,Denmark,Europe & Central Asia,High income,92.79,61.8,1.5,Female,Employment to population ratio,54.09
+DNK,Denmark,Europe & Central Asia,High income,92.79,61.8,1.5,Female,Share of youth not in education,7.1
+DNK,Denmark,Europe & Central Asia,High income,92.79,61.8,1.5,Male,Contributing family workers,0.31
+DNK,Denmark,Europe & Central Asia,High income,92.79,61.8,1.5,Male,Employment to population ratio,62.58
+DNK,Denmark,Europe & Central Asia,High income,92.79,61.8,1.5,Male,Share of youth not in education,7.58
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,56.28,21.44,2.63,Female,Contributing family workers,3.06
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,56.28,21.44,2.63,Female,Employment to population ratio,45.17
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,56.28,21.44,2.63,Female,Share of youth not in education,30.93
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,56.28,21.44,2.63,Male,Contributing family workers,1.18
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,56.28,21.44,2.63,Male,Employment to population ratio,73.74
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,56.28,21.44,2.63,Male,Share of youth not in education,18.78
+DZA,Algeria,Middle East & North Africa,Lower middle income,36.57,22.23,1.64,Female,Contributing family workers,2.46
+DZA,Algeria,Middle East & North Africa,Lower middle income,36.57,22.23,1.64,Male,Contributing family workers,1.84
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,51.71,24.6,2.1,Female,Contributing family workers,20.08
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,51.71,24.6,2.1,Female,Employment to population ratio,52.02
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,51.71,24.6,2.1,Female,Share of youth not in education,26.76
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,51.71,24.6,2.1,Male,Contributing family workers,6.59
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,51.71,24.6,2.1,Male,Employment to population ratio,77.22
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,51.71,24.6,2.1,Male,Share of youth not in education,9.96
+EGY,Egypt,Middle East & North Africa,Lower middle income,30.14,18.56,1.62,Female,Contributing family workers,26.42
+EGY,Egypt,Middle East & North Africa,Lower middle income,30.14,18.56,1.62,Male,Contributing family workers,3.96
+ESP,Spain,Europe & Central Asia,High income,77,50.82,1.52,Female,Contributing family workers,0.54
+ESP,Spain,Europe & Central Asia,High income,77,50.82,1.52,Female,Employment to population ratio,42.54
+ESP,Spain,Europe & Central Asia,High income,77,50.82,1.52,Female,Share of youth not in education,13.08
+ESP,Spain,Europe & Central Asia,High income,77,50.82,1.52,Male,Contributing family workers,0.38
+ESP,Spain,Europe & Central Asia,High income,77,50.82,1.52,Male,Employment to population ratio,53.68
+ESP,Spain,Europe & Central Asia,High income,77,50.82,1.52,Male,Share of youth not in education,14.15
+EST,Estonia,Europe & Central Asia,High income,81.38,52.47,1.55,Female,Contributing family workers,0.25
+EST,Estonia,Europe & Central Asia,High income,81.38,52.47,1.55,Female,Employment to population ratio,53.74
+EST,Estonia,Europe & Central Asia,High income,81.38,52.47,1.55,Female,Share of youth not in education,10.2
+EST,Estonia,Europe & Central Asia,High income,81.38,52.47,1.55,Male,Contributing family workers,0.15
+EST,Estonia,Europe & Central Asia,High income,81.38,52.47,1.55,Male,Employment to population ratio,66.52
+EST,Estonia,Europe & Central Asia,High income,81.38,52.47,1.55,Male,Share of youth not in education,8.3
+ETH,Ethiopia,Sub-Saharan Africa,Low income,28.78,6.74,4.27,Female,Contributing family workers,52.13
+ETH,Ethiopia,Sub-Saharan Africa,Low income,28.78,6.74,4.27,Male,Contributing family workers,21.32
+FIN,Finland,Europe & Central Asia,High income,93.66,67.35,1.39,Female,Contributing family workers,0.39
+FIN,Finland,Europe & Central Asia,High income,93.66,67.35,1.39,Female,Employment to population ratio,51.14
+FIN,Finland,Europe & Central Asia,High income,93.66,67.35,1.39,Female,Share of youth not in education,8.76
+FIN,Finland,Europe & Central Asia,High income,93.66,67.35,1.39,Male,Contributing family workers,0.5
+FIN,Finland,Europe & Central Asia,High income,93.66,67.35,1.39,Male,Employment to population ratio,57.48
+FIN,Finland,Europe & Central Asia,High income,93.66,67.35,1.39,Male,Share of youth not in education,9.86
+FJI,Fiji,East Asia & Pacific,Upper middle income,63.73,19.22,3.32,Female,Contributing family workers,28.72
+FJI,Fiji,East Asia & Pacific,Upper middle income,63.73,19.22,3.32,Male,Contributing family workers,13.95
+FRA,France,Europe & Central Asia,High income,79.36,58.07,1.37,Female,Contributing family workers,0.55
+FRA,France,Europe & Central Asia,High income,79.36,58.07,1.37,Female,Employment to population ratio,46.68
+FRA,France,Europe & Central Asia,High income,79.36,58.07,1.37,Female,Share of youth not in education,10.92
+FRA,France,Europe & Central Asia,High income,79.36,58.07,1.37,Male,Contributing family workers,0.14
+FRA,France,Europe & Central Asia,High income,79.36,58.07,1.37,Male,Employment to population ratio,54.55
+FRA,France,Europe & Central Asia,High income,79.36,58.07,1.37,Male,Share of youth not in education,11.76
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,40.32,22.13,1.82,Female,Contributing family workers,1.7
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,40.32,22.13,1.82,Male,Contributing family workers,0.68
+GBR,United Kingdom,Europe & Central Asia,High income,83.25,57.8,1.44,Female,Contributing family workers,0.41
+GBR,United Kingdom,Europe & Central Asia,High income,83.25,57.8,1.44,Female,Employment to population ratio,55.31
+GBR,United Kingdom,Europe & Central Asia,High income,83.25,57.8,1.44,Female,Share of youth not in education,11.22
+GBR,United Kingdom,Europe & Central Asia,High income,83.25,57.8,1.44,Male,Contributing family workers,0.32
+GBR,United Kingdom,Europe & Central Asia,High income,83.25,57.8,1.44,Male,Employment to population ratio,65.27
+GBR,United Kingdom,Europe & Central Asia,High income,83.25,57.8,1.44,Male,Share of youth not in education,10.09
+GEO,Georgia,Europe & Central Asia,Upper middle income,60.51,25.63,2.36,Female,Contributing family workers,27.72
+GEO,Georgia,Europe & Central Asia,Upper middle income,60.51,25.63,2.36,Female,Employment to population ratio,50.09
+GEO,Georgia,Europe & Central Asia,Upper middle income,60.51,25.63,2.36,Female,Share of youth not in education,30.79
+GEO,Georgia,Europe & Central Asia,Upper middle income,60.51,25.63,2.36,Male,Contributing family workers,12.2
+GEO,Georgia,Europe & Central Asia,Upper middle income,60.51,25.63,2.36,Male,Employment to population ratio,63.95
+GEO,Georgia,Europe & Central Asia,Upper middle income,60.51,25.63,2.36,Male,Share of youth not in education,22.44
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,60.02,11.69,5.13,Female,Adolescents out of school,11.24
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,60.02,11.69,5.13,Female,Contributing family workers,13.02
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,60.02,11.69,5.13,Male,Adolescents out of school,12.5
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,60.02,11.69,5.13,Male,Contributing family workers,5.26
+GIN,Guinea,Sub-Saharan Africa,Low income,36.77,5.5,6.68,Female,Contributing family workers,32.1
+GIN,Guinea,Sub-Saharan Africa,Low income,36.77,5.5,6.68,Male,Contributing family workers,15.14
+GMB,The Gambia,Sub-Saharan Africa,Low income,43.39,7.18,6.04,Female,Contributing family workers,10.38
+GMB,The Gambia,Sub-Saharan Africa,Low income,43.39,7.18,6.04,Male,Contributing family workers,7.99
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,33.21,0.52,64.12,Female,Contributing family workers,26.26
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,33.21,0.52,64.12,Male,Contributing family workers,26.51
+GRC,Greece,Europe & Central Asia,High income,65.84,43.96,1.5,Female,Contributing family workers,5.7
+GRC,Greece,Europe & Central Asia,High income,65.84,43.96,1.5,Female,Employment to population ratio,33.15
+GRC,Greece,Europe & Central Asia,High income,65.84,43.96,1.5,Female,Share of youth not in education,14.98
+GRC,Greece,Europe & Central Asia,High income,65.84,43.96,1.5,Male,Contributing family workers,2.46
+GRC,Greece,Europe & Central Asia,High income,65.84,43.96,1.5,Male,Employment to population ratio,49.3
+GRC,Greece,Europe & Central Asia,High income,65.84,43.96,1.5,Male,Share of youth not in education,14.98
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,43.82,14.92,2.94,Female,Contributing family workers,11.69
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,43.82,14.92,2.94,Male,Contributing family workers,7.83
+GUY,Guyana,Latin America & Caribbean,Upper middle income,55.16,17.94,3.08,Female,Contributing family workers,7.17
+GUY,Guyana,Latin America & Caribbean,Upper middle income,55.16,17.94,3.08,Male,Contributing family workers,2.66
+HND,Honduras,Latin America & Caribbean,Lower middle income,43.13,14.99,2.88,Female,Contributing family workers,11.13
+HND,Honduras,Latin America & Caribbean,Lower middle income,43.13,14.99,2.88,Female,Employment to population ratio,43.62
+HND,Honduras,Latin America & Caribbean,Lower middle income,43.13,14.99,2.88,Female,Share of youth not in education,42.48
+HND,Honduras,Latin America & Caribbean,Lower middle income,43.13,14.99,2.88,Male,Contributing family workers,8.1
+HND,Honduras,Latin America & Caribbean,Lower middle income,43.13,14.99,2.88,Male,Employment to population ratio,79.88
+HND,Honduras,Latin America & Caribbean,Lower middle income,43.13,14.99,2.88,Male,Share of youth not in education,12.05
+HRV,Croatia,Europe & Central Asia,High income,70.76,42.45,1.67,Female,Contributing family workers,1.92
+HRV,Croatia,Europe & Central Asia,High income,70.76,42.45,1.67,Female,Employment to population ratio,40.3
+HRV,Croatia,Europe & Central Asia,High income,70.76,42.45,1.67,Female,Share of youth not in education,14.32
+HRV,Croatia,Europe & Central Asia,High income,70.76,42.45,1.67,Male,Contributing family workers,1.01
+HRV,Croatia,Europe & Central Asia,High income,70.76,42.45,1.67,Male,Employment to population ratio,51.91
+HRV,Croatia,Europe & Central Asia,High income,70.76,42.45,1.67,Male,Share of youth not in education,15.93
+HTI,Haiti,Latin America & Caribbean,Low income,27.92,11.02,2.53,Female,Contributing family workers,29.37
+HTI,Haiti,Latin America & Caribbean,Low income,27.92,11.02,2.53,Male,Contributing family workers,15.43
+HUN,Hungary,Europe & Central Asia,High income,69.76,43.05,1.62,Female,Contributing family workers,0.34
+HUN,Hungary,Europe & Central Asia,High income,69.76,43.05,1.62,Female,Employment to population ratio,45.91
+HUN,Hungary,Europe & Central Asia,High income,69.76,43.05,1.62,Female,Share of youth not in education,13.54
+HUN,Hungary,Europe & Central Asia,High income,69.76,43.05,1.62,Male,Contributing family workers,0.19
+HUN,Hungary,Europe & Central Asia,High income,69.76,43.05,1.62,Male,Employment to population ratio,62.07
+HUN,Hungary,Europe & Central Asia,High income,69.76,43.05,1.62,Male,Share of youth not in education,8.74
+IDN,Indonesia,East Asia & Pacific,Upper middle income,54.38,20.65,2.63,Female,Contributing family workers,25.64
+IDN,Indonesia,East Asia & Pacific,Upper middle income,54.38,20.65,2.63,Female,Employment to population ratio,50.14
+IDN,Indonesia,East Asia & Pacific,Upper middle income,54.38,20.65,2.63,Female,Share of youth not in education,28.12
+IDN,Indonesia,East Asia & Pacific,Upper middle income,54.38,20.65,2.63,Male,Contributing family workers,5.99
+IDN,Indonesia,East Asia & Pacific,Upper middle income,54.38,20.65,2.63,Male,Employment to population ratio,78.54
+IDN,Indonesia,East Asia & Pacific,Upper middle income,54.38,20.65,2.63,Male,Share of youth not in education,15.76
+IND,India,South Asia,Lower middle income,54.27,14.37,3.78,Female,Contributing family workers,30.18
+IND,India,South Asia,Lower middle income,54.27,14.37,3.78,Male,Contributing family workers,8.42
+IRL,Ireland,Europe & Central Asia,High income,86.83,69.86,1.24,Female,Contributing family workers,0.72
+IRL,Ireland,Europe & Central Asia,High income,86.83,69.86,1.24,Female,Employment to population ratio,51.99
+IRL,Ireland,Europe & Central Asia,High income,86.83,69.86,1.24,Female,Share of youth not in education,10.95
+IRL,Ireland,Europe & Central Asia,High income,86.83,69.86,1.24,Male,Contributing family workers,0.6
+IRL,Ireland,Europe & Central Asia,High income,86.83,69.86,1.24,Male,Employment to population ratio,63.57
+IRL,Ireland,Europe & Central Asia,High income,86.83,69.86,1.24,Male,Share of youth not in education,12.19
+IRN,Iran,Middle East & North Africa,Upper middle income,33.19,29.8,1.11,Female,Contributing family workers,18.45
+IRN,Iran,Middle East & North Africa,Upper middle income,33.19,29.8,1.11,Male,Contributing family workers,2.34
+IRQ,Iraq,Middle East & North Africa,Upper middle income,18.26,14,1.3,Female,Contributing family workers,1.56
+IRQ,Iraq,Middle East & North Africa,Upper middle income,18.26,14,1.3,Male,Contributing family workers,1.4
+ISL,Iceland,Europe & Central Asia,High income,91.75,87.36,1.05,Female,Contributing family workers,0.53
+ISL,Iceland,Europe & Central Asia,High income,91.75,87.36,1.05,Female,Employment to population ratio,76.28
+ISL,Iceland,Europe & Central Asia,High income,91.75,87.36,1.05,Female,Share of youth not in education,3.86
+ISL,Iceland,Europe & Central Asia,High income,91.75,87.36,1.05,Male,Contributing family workers,0.27
+ISL,Iceland,Europe & Central Asia,High income,91.75,87.36,1.05,Male,Employment to population ratio,83.41
+ISL,Iceland,Europe & Central Asia,High income,91.75,87.36,1.05,Male,Share of youth not in education,4.95
+ISR,Israel,Middle East & North Africa,High income,66.76,52.26,1.28,Female,Contributing family workers,0.11
+ISR,Israel,Middle East & North Africa,High income,66.76,52.26,1.28,Female,Employment to population ratio,56.75
+ISR,Israel,Middle East & North Africa,High income,66.76,52.26,1.28,Male,Contributing family workers,0.05
+ISR,Israel,Middle East & North Africa,High income,66.76,52.26,1.28,Male,Employment to population ratio,65.67
+ITA,Italy,Europe & Central Asia,High income,72.36,54.09,1.34,Female,Contributing family workers,1.71
+ITA,Italy,Europe & Central Asia,High income,72.36,54.09,1.34,Female,Employment to population ratio,35.76
+ITA,Italy,Europe & Central Asia,High income,72.36,54.09,1.34,Female,Share of youth not in education,19.47
+ITA,Italy,Europe & Central Asia,High income,72.36,54.09,1.34,Male,Contributing family workers,1
+ITA,Italy,Europe & Central Asia,High income,72.36,54.09,1.34,Male,Employment to population ratio,53.13
+ITA,Italy,Europe & Central Asia,High income,72.36,54.09,1.34,Male,Share of youth not in education,19.86
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,68.23,21.4,3.19,Female,Adolescents out of school,16.99
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,68.23,21.4,3.19,Female,Contributing family workers,1.29
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,68.23,21.4,3.19,Female,Employment to population ratio,49.68
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,68.23,21.4,3.19,Male,Adolescents out of school,21
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,68.23,21.4,3.19,Male,Contributing family workers,0.61
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,68.23,21.4,3.19,Male,Employment to population ratio,65.1
+JOR,Jordan,Middle East & North Africa,Upper middle income,47.69,22.71,2.1,Female,Contributing family workers,0.07
+JOR,Jordan,Middle East & North Africa,Upper middle income,47.69,22.71,2.1,Male,Contributing family workers,0.11
+JPN,Japan,East Asia & Pacific,High income,87.51,59.67,1.47,Female,Contributing family workers,4.29
+JPN,Japan,East Asia & Pacific,High income,87.51,59.67,1.47,Female,Employment to population ratio,50.04
+JPN,Japan,East Asia & Pacific,High income,87.51,59.67,1.47,Female,Share of youth not in education,4.18
+JPN,Japan,East Asia & Pacific,High income,87.51,59.67,1.47,Male,Contributing family workers,0.82
+JPN,Japan,East Asia & Pacific,High income,87.51,59.67,1.47,Male,Employment to population ratio,68.65
+JPN,Japan,East Asia & Pacific,High income,87.51,59.67,1.47,Male,Share of youth not in education,2.48
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,46.17,44.59,1.04,Female,Contributing family workers,0.1
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,46.17,44.59,1.04,Male,Contributing family workers,0.12
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,42.33,17.26,2.45,Female,Contributing family workers,8.6
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,42.33,17.26,2.45,Male,Contributing family workers,5.89
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,42.05,21.46,1.96,Female,Adolescents out of school,4.97
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,42.05,21.46,1.96,Female,Contributing family workers,12.82
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,42.05,21.46,1.96,Male,Adolescents out of school,4.43
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,42.05,21.46,1.96,Male,Contributing family workers,4.25
+KHM,Cambodia,East Asia & Pacific,Lower middle income,41.93,14.21,2.95,Female,Contributing family workers,4.35
+KHM,Cambodia,East Asia & Pacific,Lower middle income,41.93,14.21,2.95,Male,Contributing family workers,3.72
+KOR,Korea,East Asia & Pacific,High income,74.98,62.26,1.2,Female,Contributing family workers,8.58
+KOR,Korea,East Asia & Pacific,High income,74.98,62.26,1.2,Female,Employment to population ratio,51.19
+KOR,Korea,East Asia & Pacific,High income,74.98,62.26,1.2,Male,Contributing family workers,0.97
+KOR,Korea,East Asia & Pacific,High income,74.98,62.26,1.2,Male,Employment to population ratio,71.21
+KWT,Kuwait,Middle East & North Africa,High income,50.5,64.31,0.79,Female,Contributing family workers,0.01
+KWT,Kuwait,Middle East & North Africa,High income,50.5,64.31,0.79,Male,Contributing family workers,0.01
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,40.68,12.9,3.15,Female,Adolescents out of school,24.02
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,40.68,12.9,3.15,Female,Contributing family workers,36.02
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,40.68,12.9,3.15,Male,Adolescents out of school,22.58
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,40.68,12.9,3.15,Male,Contributing family workers,18.45
+LBN,Lebanon,Middle East & North Africa,Upper middle income,34.31,24.81,1.38,Female,Contributing family workers,1.53
+LBN,Lebanon,Middle East & North Africa,Upper middle income,34.31,24.81,1.38,Male,Contributing family workers,1.1
+LBR,Liberia,Sub-Saharan Africa,Low income,41.52,1.87,22.24,Female,Contributing family workers,9.71
+LBR,Liberia,Sub-Saharan Africa,Low income,41.52,1.87,22.24,Male,Contributing family workers,6.61
+LBY,Libya,Middle East & North Africa,Upper middle income,10.48,12,0.87,Female,Contributing family workers,2.75
+LBY,Libya,Middle East & North Africa,Upper middle income,10.48,12,0.87,Male,Contributing family workers,1.17
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,73.58,25.9,2.84,Female,Contributing family workers,0.37
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,73.58,25.9,2.84,Male,Contributing family workers,0.13
+LKA,Sri Lanka,South Asia,Lower middle income,54.38,24.78,2.19,Female,Contributing family workers,17.44
+LKA,Sri Lanka,South Asia,Lower middle income,54.38,24.78,2.19,Female,Employment to population ratio,32.77
+LKA,Sri Lanka,South Asia,Lower middle income,54.38,24.78,2.19,Male,Contributing family workers,2.67
+LKA,Sri Lanka,South Asia,Lower middle income,54.38,24.78,2.19,Male,Employment to population ratio,71.81
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,48.25,6.14,7.86,Female,Contributing family workers,7.87
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,48.25,6.14,7.86,Male,Contributing family workers,3.64
+LTU,Lithuania,Europe & Central Asia,High income,80.17,45.35,1.77,Female,Contributing family workers,1.04
+LTU,Lithuania,Europe & Central Asia,High income,80.17,45.35,1.77,Female,Employment to population ratio,52.44
+LTU,Lithuania,Europe & Central Asia,High income,80.17,45.35,1.77,Female,Share of youth not in education,8.49
+LTU,Lithuania,Europe & Central Asia,High income,80.17,45.35,1.77,Male,Contributing family workers,0.67
+LTU,Lithuania,Europe & Central Asia,High income,80.17,45.35,1.77,Male,Employment to population ratio,61.03
+LTU,Lithuania,Europe & Central Asia,High income,80.17,45.35,1.77,Male,Share of youth not in education,9.26
+LVA,Latvia,Europe & Central Asia,High income,75.92,42.9,1.77,Female,Contributing family workers,0.52
+LVA,Latvia,Europe & Central Asia,High income,75.92,42.9,1.77,Female,Employment to population ratio,51.13
+LVA,Latvia,Europe & Central Asia,High income,75.92,42.9,1.77,Female,Share of youth not in education,9.07
+LVA,Latvia,Europe & Central Asia,High income,75.92,42.9,1.77,Male,Contributing family workers,0.88
+LVA,Latvia,Europe & Central Asia,High income,75.92,42.9,1.77,Male,Employment to population ratio,61.34
+LVA,Latvia,Europe & Central Asia,High income,75.92,42.9,1.77,Male,Share of youth not in education,9.98
+MAR,Morocco,Middle East & North Africa,Lower middle income,47.22,16.35,2.89,Female,Contributing family workers,40.58
+MAR,Morocco,Middle East & North Africa,Lower middle income,47.22,16.35,2.89,Male,Contributing family workers,10.77
+MDA,Moldova,Europe & Central Asia,Lower middle income,49.19,24.51,2.01,Female,Adolescents out of school,15.41
+MDA,Moldova,Europe & Central Asia,Lower middle income,49.19,24.51,2.01,Female,Contributing family workers,5.79
+MDA,Moldova,Europe & Central Asia,Lower middle income,49.19,24.51,2.01,Female,Employment to population ratio,37.57
+MDA,Moldova,Europe & Central Asia,Lower middle income,49.19,24.51,2.01,Male,Adolescents out of school,14.44
+MDA,Moldova,Europe & Central Asia,Lower middle income,49.19,24.51,2.01,Male,Contributing family workers,2.12
+MDA,Moldova,Europe & Central Asia,Lower middle income,49.19,24.51,2.01,Male,Employment to population ratio,43.48
+MDG,Madagascar,Sub-Saharan Africa,Low income,41.27,6.05,6.82,Female,Contributing family workers,56.07
+MDG,Madagascar,Sub-Saharan Africa,Low income,41.27,6.05,6.82,Male,Contributing family workers,21.21
+MDV,Maldives,South Asia,Upper middle income,50.12,8.56,5.86,Female,Contributing family workers,4.67
+MDV,Maldives,South Asia,Upper middle income,50.12,8.56,5.86,Male,Contributing family workers,2.58
+MEX,Mexico,Latin America & Caribbean,Upper middle income,50.88,31.52,1.61,Female,Contributing family workers,7.09
+MEX,Mexico,Latin America & Caribbean,Upper middle income,50.88,31.52,1.61,Female,Employment to population ratio,41.92
+MEX,Mexico,Latin America & Caribbean,Upper middle income,50.88,31.52,1.61,Female,Share of youth not in education,29.42
+MEX,Mexico,Latin America & Caribbean,Upper middle income,50.88,31.52,1.61,Male,Contributing family workers,3.41
+MEX,Mexico,Latin America & Caribbean,Upper middle income,50.88,31.52,1.61,Male,Employment to population ratio,74.76
+MEX,Mexico,Latin America & Caribbean,Upper middle income,50.88,31.52,1.61,Male,Share of youth not in education,8.53
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,54.61,24.97,2.19,Female,Contributing family workers,10.31
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,54.61,24.97,2.19,Female,Employment to population ratio,33.97
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,54.61,24.97,2.19,Female,Share of youth not in education,24.05
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,54.61,24.97,2.19,Male,Contributing family workers,3.91
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,54.61,24.97,2.19,Male,Employment to population ratio,52.22
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,54.61,24.97,2.19,Male,Share of youth not in education,22.47
+MLI,Mali,Sub-Saharan Africa,Low income,31.16,2.21,14.13,Female,Contributing family workers,27.55
+MLI,Mali,Sub-Saharan Africa,Low income,31.16,2.21,14.13,Male,Contributing family workers,21.79
+MLT,Malta,Middle East & North Africa,High income,83.43,47.86,1.74,Female,Contributing family workers,0.14
+MLT,Malta,Middle East & North Africa,High income,83.43,47.86,1.74,Female,Employment to population ratio,45.33
+MLT,Malta,Middle East & North Africa,High income,83.43,47.86,1.74,Female,Share of youth not in education,9.48
+MLT,Malta,Middle East & North Africa,High income,83.43,47.86,1.74,Male,Contributing family workers,0.07
+MLT,Malta,Middle East & North Africa,High income,83.43,47.86,1.74,Male,Employment to population ratio,66.29
+MLT,Malta,Middle East & North Africa,High income,83.43,47.86,1.74,Male,Share of youth not in education,7.85
+MMR,Myanmar,East Asia & Pacific,Lower middle income,30.8,13.28,2.32,Female,Contributing family workers,37.03
+MMR,Myanmar,East Asia & Pacific,Lower middle income,30.8,13.28,2.32,Male,Contributing family workers,17.19
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Female,Adolescents out of school,4.01
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Female,Contributing family workers,3.53
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Female,Employment to population ratio,40.23
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Female,Share of youth not in education,16.55
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Male,Adolescents out of school,5.35
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Male,Contributing family workers,1.83
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Male,Employment to population ratio,52.55
+MNE,Montenegro,Europe & Central Asia,Upper middle income,59.31,32.04,1.85,Male,Share of youth not in education,18.47
+MNG,Mongolia,East Asia & Pacific,Lower middle income,63.21,28.16,2.24,Female,Contributing family workers,4.87
+MNG,Mongolia,East Asia & Pacific,Lower middle income,63.21,28.16,2.24,Female,Employment to population ratio,50.15
+MNG,Mongolia,East Asia & Pacific,Lower middle income,63.21,28.16,2.24,Female,Share of youth not in education,21.36
+MNG,Mongolia,East Asia & Pacific,Lower middle income,63.21,28.16,2.24,Male,Contributing family workers,1.38
+MNG,Mongolia,East Asia & Pacific,Lower middle income,63.21,28.16,2.24,Male,Employment to population ratio,61.52
+MNG,Mongolia,East Asia & Pacific,Lower middle income,63.21,28.16,2.24,Male,Share of youth not in education,17
+MOZ,Mozambique,Sub-Saharan Africa,Low income,39.63,4.82,8.22,Female,Contributing family workers,24.42
+MOZ,Mozambique,Sub-Saharan Africa,Low income,39.63,4.82,8.22,Male,Contributing family workers,11.58
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,38.34,6.76,5.67,Female,Contributing family workers,13.75
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,38.34,6.76,5.67,Male,Contributing family workers,5.72
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Female,Adolescents out of school,3.94
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Female,Contributing family workers,3.95
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Female,Employment to population ratio,40.97
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Female,Share of youth not in education,24.08
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Male,Adolescents out of school,6.75
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Male,Contributing family workers,0.93
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Male,Employment to population ratio,70.34
+MUS,Mauritius,Sub-Saharan Africa,High income,78.65,31.68,2.48,Male,Share of youth not in education,15.52
+MWI,Malawi,Sub-Saharan Africa,Low income,48.8,6.63,7.36,Female,Contributing family workers,7.42
+MWI,Malawi,Sub-Saharan Africa,Low income,48.8,6.63,7.36,Male,Contributing family workers,4.69
+MYS,Malaysia,East Asia & Pacific,Upper middle income,63.52,36.95,1.72,Female,Contributing family workers,7.61
+MYS,Malaysia,East Asia & Pacific,Upper middle income,63.52,36.95,1.72,Male,Contributing family workers,2.4
+NAM,Namibia,Sub-Saharan Africa,Upper middle income,67.93,14.25,4.77,Female,Contributing family workers,5.43
+NAM,Namibia,Sub-Saharan Africa,Upper middle income,67.93,14.25,4.77,Male,Contributing family workers,3.39
+NER,Niger,Sub-Saharan Africa,Low income,37.17,1.54,24.16,Female,Contributing family workers,46.72
+NER,Niger,Sub-Saharan Africa,Low income,37.17,1.54,24.16,Male,Contributing family workers,25.04
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,29.36,7.09,4.14,Female,Contributing family workers,9.65
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,29.36,7.09,4.14,Male,Contributing family workers,4.34
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,40.16,16.96,2.37,Female,Contributing family workers,8
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,40.16,16.96,2.37,Male,Contributing family workers,8.52
+NLD,Netherlands,Europe & Central Asia,High income,92.38,66.89,1.38,Female,Contributing family workers,0.65
+NLD,Netherlands,Europe & Central Asia,High income,92.38,66.89,1.38,Female,Employment to population ratio,55.93
+NLD,Netherlands,Europe & Central Asia,High income,92.38,66.89,1.38,Female,Share of youth not in education,4.19
+NLD,Netherlands,Europe & Central Asia,High income,92.38,66.89,1.38,Male,Contributing family workers,0.2
+NLD,Netherlands,Europe & Central Asia,High income,92.38,66.89,1.38,Male,Employment to population ratio,66.42
+NLD,Netherlands,Europe & Central Asia,High income,92.38,66.89,1.38,Male,Share of youth not in education,4.48
+NOR,Norway,Europe & Central Asia,High income,96.16,72.74,1.32,Female,Contributing family workers,0.15
+NOR,Norway,Europe & Central Asia,High income,96.16,72.74,1.32,Female,Employment to population ratio,59.63
+NOR,Norway,Europe & Central Asia,High income,96.16,72.74,1.32,Female,Share of youth not in education,4.69
+NOR,Norway,Europe & Central Asia,High income,96.16,72.74,1.32,Male,Contributing family workers,0.13
+NOR,Norway,Europe & Central Asia,High income,96.16,72.74,1.32,Male,Employment to population ratio,63.58
+NOR,Norway,Europe & Central Asia,High income,96.16,72.74,1.32,Male,Share of youth not in education,5.14
+NPL,Nepal,South Asia,Lower middle income,41.15,14.26,2.89,Female,Contributing family workers,56.5
+NPL,Nepal,South Asia,Lower middle income,41.15,14.26,2.89,Male,Contributing family workers,16.35
+NZL,New Zealand,East Asia & Pacific,High income,96.9,58.27,1.66,Female,Contributing family workers,0.98
+NZL,New Zealand,East Asia & Pacific,High income,96.9,58.27,1.66,Female,Employment to population ratio,61.7
+NZL,New Zealand,East Asia & Pacific,High income,96.9,58.27,1.66,Female,Share of youth not in education,13.12
+NZL,New Zealand,East Asia & Pacific,High income,96.9,58.27,1.66,Male,Contributing family workers,0.7
+NZL,New Zealand,East Asia & Pacific,High income,96.9,58.27,1.66,Male,Employment to population ratio,72.29
+NZL,New Zealand,East Asia & Pacific,High income,96.9,58.27,1.66,Male,Share of youth not in education,10.69
+OMN,Oman,Middle East & North Africa,High income,54.52,46.18,1.18,Female,Contributing family workers,0.49
+OMN,Oman,Middle East & North Africa,High income,54.52,46.18,1.18,Male,Contributing family workers,0.2
+PAK,Pakistan,South Asia,Lower middle income,26.06,8.88,2.93,Female,Contributing family workers,53.08
+PAK,Pakistan,South Asia,Lower middle income,26.06,8.88,2.93,Male,Contributing family workers,13.27
+PAN,Panama,Latin America & Caribbean,High income,65.14,29.13,2.24,Female,Contributing family workers,6.9
+PAN,Panama,Latin America & Caribbean,High income,65.14,29.13,2.24,Female,Employment to population ratio,48.3
+PAN,Panama,Latin America & Caribbean,High income,65.14,29.13,2.24,Female,Share of youth not in education,24.2
+PAN,Panama,Latin America & Caribbean,High income,65.14,29.13,2.24,Male,Contributing family workers,3.46
+PAN,Panama,Latin America & Caribbean,High income,65.14,29.13,2.24,Male,Employment to population ratio,74.54
+PAN,Panama,Latin America & Caribbean,High income,65.14,29.13,2.24,Male,Share of youth not in education,10.35
+PER,Peru,Latin America & Caribbean,Upper middle income,55.37,24.72,2.24,Female,Contributing family workers,22.45
+PER,Peru,Latin America & Caribbean,Upper middle income,55.37,24.72,2.24,Female,Employment to population ratio,66.53
+PER,Peru,Latin America & Caribbean,Upper middle income,55.37,24.72,2.24,Female,Share of youth not in education,20.68
+PER,Peru,Latin America & Caribbean,Upper middle income,55.37,24.72,2.24,Male,Contributing family workers,7.4
+PER,Peru,Latin America & Caribbean,Upper middle income,55.37,24.72,2.24,Male,Employment to population ratio,81.8
+PER,Peru,Latin America & Caribbean,Upper middle income,55.37,24.72,2.24,Male,Share of youth not in education,14.22
+PHL,Philippines,East Asia & Pacific,Lower middle income,49.18,19.1,2.57,Female,Contributing family workers,10.9
+PHL,Philippines,East Asia & Pacific,Lower middle income,49.18,19.1,2.57,Female,Employment to population ratio,45.37
+PHL,Philippines,East Asia & Pacific,Lower middle income,49.18,19.1,2.57,Female,Share of youth not in education,27.27
+PHL,Philippines,East Asia & Pacific,Lower middle income,49.18,19.1,2.57,Male,Contributing family workers,5.2
+PHL,Philippines,East Asia & Pacific,Lower middle income,49.18,19.1,2.57,Male,Employment to population ratio,71.71
+PHL,Philippines,East Asia & Pacific,Lower middle income,49.18,19.1,2.57,Male,Share of youth not in education,15.21
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,46.66,8.97,5.2,Female,Contributing family workers,21.48
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,46.66,8.97,5.2,Male,Contributing family workers,17.45
+POL,Poland,Europe & Central Asia,High income,73.94,46.37,1.59,Female,Contributing family workers,3.65
+POL,Poland,Europe & Central Asia,High income,73.94,46.37,1.59,Female,Employment to population ratio,45.82
+POL,Poland,Europe & Central Asia,High income,73.94,46.37,1.59,Female,Share of youth not in education,10.44
+POL,Poland,Europe & Central Asia,High income,73.94,46.37,1.59,Male,Contributing family workers,1.67
+POL,Poland,Europe & Central Asia,High income,73.94,46.37,1.59,Male,Employment to population ratio,61.64
+POL,Poland,Europe & Central Asia,High income,73.94,46.37,1.59,Male,Share of youth not in education,8.72
+PRT,Portugal,Europe & Central Asia,High income,85.34,49.27,1.73,Female,Contributing family workers,0.51
+PRT,Portugal,Europe & Central Asia,High income,85.34,49.27,1.73,Female,Employment to population ratio,48.95
+PRT,Portugal,Europe & Central Asia,High income,85.34,49.27,1.73,Female,Share of youth not in education,9.79
+PRT,Portugal,Europe & Central Asia,High income,85.34,49.27,1.73,Male,Contributing family workers,0.45
+PRT,Portugal,Europe & Central Asia,High income,85.34,49.27,1.73,Male,Employment to population ratio,58.67
+PRT,Portugal,Europe & Central Asia,High income,85.34,49.27,1.73,Male,Share of youth not in education,9.24
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,50.75,21.16,2.4,Female,Contributing family workers,10.85
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,50.75,21.16,2.4,Female,Employment to population ratio,53.85
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,50.75,21.16,2.4,Male,Contributing family workers,5.35
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,50.75,21.16,2.4,Male,Employment to population ratio,79.68
+RUS,Russia,Europe & Central Asia,Upper middle income,40.73,46.47,0.88,Female,Contributing family workers,0.39
+RUS,Russia,Europe & Central Asia,Upper middle income,40.73,46.47,0.88,Female,Employment to population ratio,55.89
+RUS,Russia,Europe & Central Asia,Upper middle income,40.73,46.47,0.88,Male,Contributing family workers,0.38
+RUS,Russia,Europe & Central Asia,Upper middle income,40.73,46.47,0.88,Male,Employment to population ratio,69.06
+RWA,Rwanda,Sub-Saharan Africa,Low income,48.55,5.68,8.55,Female,Contributing family workers,42.41
+RWA,Rwanda,Sub-Saharan Africa,Low income,48.55,5.68,8.55,Male,Contributing family workers,13.16
+SAU,Saudi Arabia,Middle East & North Africa,High income,39.99,53.55,0.75,Female,Contributing family workers,0.03
+SAU,Saudi Arabia,Middle East & North Africa,High income,39.99,53.55,0.75,Male,Contributing family workers,0.03
+SDN,Sudan,Sub-Saharan Africa,Low income,12.81,7.38,1.74,Female,Contributing family workers,22.67
+SDN,Sudan,Sub-Saharan Africa,Low income,12.81,7.38,1.74,Male,Contributing family workers,5.02
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,55.99,8.78,6.38,Female,Contributing family workers,27.3
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,55.99,8.78,6.38,Male,Contributing family workers,19.86
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,55.75,9.47,5.89,Female,Contributing family workers,63.95
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,55.75,9.47,5.89,Male,Contributing family workers,39.48
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,44.58,4.27,10.45,Female,Contributing family workers,8.93
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,44.58,4.27,10.45,Male,Contributing family workers,7.44
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,53.43,19.51,2.74,Female,Contributing family workers,7.88
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,53.43,19.51,2.74,Female,Employment to population ratio,44.22
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,53.43,19.51,2.74,Female,Share of youth not in education,40.28
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,53.43,19.51,2.74,Male,Contributing family workers,5.53
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,53.43,19.51,2.74,Male,Employment to population ratio,73.9
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,53.43,19.51,2.74,Male,Share of youth not in education,15.05
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Female,Adolescents out of school,1.36
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Female,Contributing family workers,10.42
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Female,Employment to population ratio,39.06
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Female,Share of youth not in education,18.02
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Male,Adolescents out of school,1.34
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Male,Contributing family workers,3.35
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Male,Employment to population ratio,53.81
+SRB,Serbia,Europe & Central Asia,Upper middle income,59.08,37.45,1.58,Male,Share of youth not in education,17.46
+STP,SÃ£o TomÃ© and Principe,Sub-Saharan Africa,Lower middle income,56.01,1.47,38.02,Female,Contributing family workers,7.84
+STP,SÃ£o TomÃ© and Principe,Sub-Saharan Africa,Lower middle income,56.01,1.47,38.02,Male,Contributing family workers,7.69
+SUR,Suriname,Latin America & Caribbean,Upper middle income,56.96,10.62,5.36,Female,Contributing family workers,2.21
+SUR,Suriname,Latin America & Caribbean,Upper middle income,56.96,10.62,5.36,Male,Contributing family workers,1.28
+SVK,Slovak Republic,Europe & Central Asia,High income,77.51,43.83,1.77,Female,Contributing family workers,0.12
+SVK,Slovak Republic,Europe & Central Asia,High income,77.51,43.83,1.77,Female,Employment to population ratio,47.64
+SVK,Slovak Republic,Europe & Central Asia,High income,77.51,43.83,1.77,Female,Share of youth not in education,13.07
+SVK,Slovak Republic,Europe & Central Asia,High income,77.51,43.83,1.77,Male,Contributing family workers,0.1
+SVK,Slovak Republic,Europe & Central Asia,High income,77.51,43.83,1.77,Male,Employment to population ratio,62.56
+SVK,Slovak Republic,Europe & Central Asia,High income,77.51,43.83,1.77,Male,Share of youth not in education,10.42
+SVN,Slovenia,Europe & Central Asia,High income,81.5,53.66,1.52,Female,Contributing family workers,3.44
+SVN,Slovenia,Europe & Central Asia,High income,81.5,53.66,1.52,Female,Employment to population ratio,49.06
+SVN,Slovenia,Europe & Central Asia,High income,81.5,53.66,1.52,Female,Share of youth not in education,7.52
+SVN,Slovenia,Europe & Central Asia,High income,81.5,53.66,1.52,Male,Contributing family workers,2.11
+SVN,Slovenia,Europe & Central Asia,High income,81.5,53.66,1.52,Male,Employment to population ratio,59.12
+SVN,Slovenia,Europe & Central Asia,High income,81.5,53.66,1.52,Male,Share of youth not in education,7.58
+SWE,Sweden,Europe & Central Asia,High income,93.13,65.89,1.41,Female,Contributing family workers,0.25
+SWE,Sweden,Europe & Central Asia,High income,93.13,65.89,1.41,Female,Employment to population ratio,65.51
+SWE,Sweden,Europe & Central Asia,High income,93.13,65.89,1.41,Female,Share of youth not in education,6.01
+SWE,Sweden,Europe & Central Asia,High income,93.13,65.89,1.41,Male,Contributing family workers,0.23
+SWE,Sweden,Europe & Central Asia,High income,93.13,65.89,1.41,Male,Employment to population ratio,69.71
+SWE,Sweden,Europe & Central Asia,High income,93.13,65.89,1.41,Male,Share of youth not in education,6.32
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,36.52,8.19,4.46,Female,Contributing family workers,2.63
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,36.52,8.19,4.46,Male,Contributing family workers,2.27
+SYC,Seychelles,Sub-Saharan Africa,High income,67.69,33.46,2.02,Female,Employment to population ratio,63.54
+SYC,Seychelles,Sub-Saharan Africa,High income,67.69,33.46,2.02,Male,Employment to population ratio,70.1
+TCD,Chad,Sub-Saharan Africa,Low income,22.11,0.45,48.71,Female,Adolescents out of school,70.5
+TCD,Chad,Sub-Saharan Africa,Low income,22.11,0.45,48.71,Female,Contributing family workers,30.13
+TCD,Chad,Sub-Saharan Africa,Low income,22.11,0.45,48.71,Male,Adolescents out of school,54.1
+TCD,Chad,Sub-Saharan Africa,Low income,22.11,0.45,48.71,Male,Contributing family workers,5.02
+TGO,Togo,Sub-Saharan Africa,Low income,37.31,8.07,4.62,Female,Contributing family workers,9.87
+TGO,Togo,Sub-Saharan Africa,Low income,37.31,8.07,4.62,Male,Contributing family workers,4.27
+THA,Thailand,East Asia & Pacific,Upper middle income,44.76,30.55,1.47,Female,Contributing family workers,22.81
+THA,Thailand,East Asia & Pacific,Upper middle income,44.76,30.55,1.47,Female,Employment to population ratio,59.43
+THA,Thailand,East Asia & Pacific,Upper middle income,44.76,30.55,1.47,Female,Share of youth not in education,18.93
+THA,Thailand,East Asia & Pacific,Upper middle income,44.76,30.55,1.47,Male,Contributing family workers,11.52
+THA,Thailand,East Asia & Pacific,Upper middle income,44.76,30.55,1.47,Male,Employment to population ratio,76.06
+THA,Thailand,East Asia & Pacific,Upper middle income,44.76,30.55,1.47,Male,Share of youth not in education,10.68
+TJK,Tajikistan,Europe & Central Asia,Low income,27.7,15.86,1.75,Female,Contributing family workers,21.7
+TJK,Tajikistan,Europe & Central Asia,Low income,27.7,15.86,1.75,Male,Contributing family workers,14.09
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,28.2,14.5,1.94,Female,Contributing family workers,4.5
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,28.2,14.5,1.94,Male,Contributing family workers,1.95
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,64.92,59.93,1.08,Female,Contributing family workers,0.73
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,64.92,59.93,1.08,Male,Contributing family workers,0.17
+TUN,Tunisia,Middle East & North Africa,Lower middle income,50.04,20.23,2.47,Female,Contributing family workers,3.38
+TUN,Tunisia,Middle East & North Africa,Lower middle income,50.04,20.23,2.47,Male,Contributing family workers,1.87
+TUR,Turkey,Europe & Central Asia,Upper middle income,39.02,36.24,1.08,Female,Contributing family workers,25.14
+TUR,Turkey,Europe & Central Asia,Upper middle income,39.02,36.24,1.08,Female,Employment to population ratio,28.49
+TUR,Turkey,Europe & Central Asia,Upper middle income,39.02,36.24,1.08,Female,Share of youth not in education,33.73
+TUR,Turkey,Europe & Central Asia,Upper middle income,39.02,36.24,1.08,Male,Contributing family workers,4.43
+TUR,Turkey,Europe & Central Asia,Upper middle income,39.02,36.24,1.08,Male,Employment to population ratio,64.91
+TUR,Turkey,Europe & Central Asia,Upper middle income,39.02,36.24,1.08,Male,Share of youth not in education,15.42
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,44.53,7.54,5.9,Female,Contributing family workers,47.48
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,44.53,7.54,5.9,Male,Contributing family workers,19.63
+UGA,Uganda,Sub-Saharan Africa,Low income,41.21,5.54,7.44,Female,Contributing family workers,17.15
+UGA,Uganda,Sub-Saharan Africa,Low income,41.21,5.54,7.44,Male,Contributing family workers,10.45
+UKR,Ukraine,Europe & Central Asia,Lower middle income,38.52,32.08,1.2,Female,Contributing family workers,0.25
+UKR,Ukraine,Europe & Central Asia,Lower middle income,38.52,32.08,1.2,Female,Employment to population ratio,50.51
+UKR,Ukraine,Europe & Central Asia,Lower middle income,38.52,32.08,1.2,Male,Contributing family workers,0.24
+UKR,Ukraine,Europe & Central Asia,Lower middle income,38.52,32.08,1.2,Male,Employment to population ratio,61.31
+URY,Uruguay,Latin America & Caribbean,High income,79.72,31.16,2.56,Female,Contributing family workers,1.23
+URY,Uruguay,Latin America & Caribbean,High income,79.72,31.16,2.56,Female,Employment to population ratio,50.05
+URY,Uruguay,Latin America & Caribbean,High income,79.72,31.16,2.56,Female,Share of youth not in education,21.5
+URY,Uruguay,Latin America & Caribbean,High income,79.72,31.16,2.56,Male,Contributing family workers,0.49
+URY,Uruguay,Latin America & Caribbean,High income,79.72,31.16,2.56,Male,Employment to population ratio,67.4
+URY,Uruguay,Latin America & Caribbean,High income,79.72,31.16,2.56,Male,Share of youth not in education,15.49
+USA,United States,North America,High income,81.71,68.57,1.19,Female,Contributing family workers,0.08
+USA,United States,North America,High income,81.71,68.57,1.19,Female,Employment to population ratio,54.53
+USA,United States,North America,High income,81.71,68.57,1.19,Female,Share of youth not in education,14.91
+USA,United States,North America,High income,81.71,68.57,1.19,Male,Contributing family workers,0.04
+USA,United States,North America,High income,81.71,68.57,1.19,Male,Employment to population ratio,66.01
+USA,United States,North America,High income,81.71,68.57,1.19,Male,Share of youth not in education,13.53
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,34.31,25.81,1.33,Female,Adolescents out of school,4.47
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,34.31,25.81,1.33,Female,Contributing family workers,9.9
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,34.31,25.81,1.33,Male,Adolescents out of school,3.19
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,34.31,25.81,1.33,Male,Contributing family workers,5.7
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,73.69,20.71,3.56,Female,Contributing family workers,1.96
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,73.69,20.71,3.56,Male,Contributing family workers,0.79
+VNM,Vietnam,East Asia & Pacific,Lower middle income,46.16,27.68,1.67,Female,Contributing family workers,21.3
+VNM,Vietnam,East Asia & Pacific,Lower middle income,46.16,27.68,1.67,Female,Employment to population ratio,68.91
+VNM,Vietnam,East Asia & Pacific,Lower middle income,46.16,27.68,1.67,Female,Share of youth not in education,12.83
+VNM,Vietnam,East Asia & Pacific,Lower middle income,46.16,27.68,1.67,Male,Contributing family workers,10.24
+VNM,Vietnam,East Asia & Pacific,Lower middle income,46.16,27.68,1.67,Male,Employment to population ratio,79.06
+VNM,Vietnam,East Asia & Pacific,Lower middle income,46.16,27.68,1.67,Male,Share of youth not in education,7.99
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,61.71,11.35,5.44,Female,Contributing family workers,4.07
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,61.71,11.35,5.44,Male,Contributing family workers,1.9
+WSM,Samoa,East Asia & Pacific,Upper middle income,76.89,17.82,4.32,Female,Contributing family workers,5
+WSM,Samoa,East Asia & Pacific,Upper middle income,76.89,17.82,4.32,Male,Contributing family workers,3.78
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,63.21,18.74,3.37,Female,Contributing family workers,0.8
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,63.21,18.74,3.37,Female,Employment to population ratio,34.15
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,63.21,18.74,3.37,Female,Share of youth not in education,33.84
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,63.21,18.74,3.37,Male,Contributing family workers,0.33
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,63.21,18.74,3.37,Male,Employment to population ratio,46.79
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,63.21,18.74,3.37,Male,Share of youth not in education,28.88
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,49.96,8.52,5.87,Female,Contributing family workers,42.02
+ZMB,Zambia,Sub-Saharan Africa,Lower middle income,49.96,8.52,5.87,Male,Contributing family workers,12.2
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,31.18,11.72,2.66,Female,Contributing family workers,11.79
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,31.18,11.72,2.66,Male,Contributing family workers,7.38
