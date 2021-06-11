@@ -1,24 +1,24 @@
-# DataViz_Gender-Development
-Gender Gap and Development
+# Gender Gap and Development
+## DataViz_Gender-Development
 
-**Data preparation has been developed in two phases:**
+**Data preparation has been developed in two phases:** 
 
 ETL of the data files:
-- Loading of country data
-- Loading of development indicators by countries of the world bank
+- Loading of country data.
+- Loading of World Bank country development indicators.
   (https://datacatalog.worldbank.org/dataset/world-development-indicators)
-- Loading of government indicators by countries from the World Bank ().
+- Loading of World Bank country government indicators.
   (https://info.worldbank.org/governance/wgi/)
  
-The ETLs have been developed with Pentaho Datra integration (PDI) and loaded into a SQLServer DB.
-Files included.
-Find the code under the files with extension ".ktr"
+ETLs have been developed with Pentaho Data integration (PDI) and loaded into SQLServer DB.
+
+The code can be found in files with extension ".ktr".
  
-**Preparation of data to be adapted to graphs:**
+**Preparation of the data to adapt it to the graphs:**
 
-Mainly the following have been developed the following tasks:
-- Selection of Features
+Mainly the following tasks have been developed:
+- Selection of Features.
 - Calculations for the creation of derived indicators.
-- Pivot and unpivot of Features to adapt to the needs of the chart.
+- Pivoting and unpivoting of Features to adapt them to the needs of the chart.
 
-Find the code under the files with extension ".sql"
+The code can be found in files with extension ".sql ".
